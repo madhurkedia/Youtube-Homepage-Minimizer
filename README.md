@@ -24,7 +24,7 @@ While great for entertainment, it often leads to wasted time and lost focus.
 
 Follow these steps to install and use the extension locally:
 
-###1. Clone this repository
+### 1. Clone this repository
    ```bash
    git clone https://github.com/madhurkedia/Youtube-Homepage-Minimizer.git
 ```
