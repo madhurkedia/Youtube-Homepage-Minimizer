@@ -16,5 +16,30 @@ While great for entertainment, it often leads to wasted time and lost focus.
 - Removes homepage recommendations, shorts, trending, and sidebars  
 - Replaces homepage with a clean, centered search bar  
 - Lightweight, fast, and open-source  
-- Helps you stay distraction-free  
+- Helps you stay distraction-free
+- 
+---
+
+## Installation
+
+Follow these steps to install and use the extension locally:
+
+###1. Clone this repository
+   ```bash
+   git clone https://github.com/madhurkedia/Youtube-Homepage-Minimizer.git
+```
+
+### 2. Enable Developer Mode
+Toggle the switch in the top-right corner to **enable Developer Mode**.
+
+### 3. Load the Extension
+- Click on **Load unpacked**.  
+- Select the cloned project folder (the one containing `manifest.json`).  
+
+### 4. Pin the Extension (Optional)
+- Click on the **Extensions icon** in the Chrome toolbar.  
+- Pin **YouTube Homepage Minimizer** for quick access.  
+
+### 5. Enjoy Distraction-Free YouTube
+Open **YouTube** and notice the clean homepage without unnecessary recommendations.  
 
